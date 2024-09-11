@@ -15,7 +15,7 @@ ___
 ## Klonen des Repositories
 ### Über die Commandline
 ``` cmd
-git clone https://github.com/LBS-Eibiswald-APC/HelloWorld
+git clone https://github.com/ThomasSornig/Berufsschule_HelloWorld
 ```
 ### Oder direkt in IntelliJ
 ![Screenshot Get from VCS](pictures/screenshot_1.png)
